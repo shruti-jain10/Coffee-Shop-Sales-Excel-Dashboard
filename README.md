@@ -54,9 +54,13 @@ The dashboard provides insights into sales performance, customer footfall, produ
 ## Business Insights
 
 • Hell's Kitchen generated the highest sales.
+
 • Coffee contributed the largest percentage of sales.
+
 • Sunday recorded the highest number of orders.
+
 • Barista Espresso was among the top-selling products.
+
 • Order quantity peaked during morning hours.
 
 ## 🧠 Skills Demonstrated
