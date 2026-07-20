@@ -63,6 +63,19 @@ The dashboard provides insights into sales performance, customer footfall, produ
 
 • Order quantity peaked during morning hours.
 
+## 🧠 Skills Demonstrated
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+- Data Analysis
+
+## 🚀 Future Improvements
+- Add Profit Analysis
+- Add Month-over-Month Growth
 ---
 
 ## 📂 Dataset
