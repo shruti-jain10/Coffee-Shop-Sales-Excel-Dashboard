@@ -1,5 +1,9 @@
 # ☕ Coffee Shop Sales Dashboard (Excel)
 
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## 📌 Project Overview
 
 This project is an interactive Microsoft Excel dashboard created using a Coffee Shop Sales dataset.
@@ -7,11 +11,6 @@ This project is an interactive Microsoft Excel dashboard created using a Coffee 
 The dashboard provides insights into sales performance, customer footfall, product categories, store locations, and ordering trends.
 
 ---
-
-## 📊 Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
 ## 🛠 Tools Used
 
 - Microsoft Excel
